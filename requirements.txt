@@ -1,1 +1,6 @@
-flask
+icecream
+mpmath
+numpy
+pandas
+streamlit
+matplotlib
